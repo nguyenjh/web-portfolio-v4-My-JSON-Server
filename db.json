@@ -1,4 +1,5 @@
-[
+{
+  "projects": [
     {
         "title": "Code Names - ACM",
         "image": "./media/codenames.png",
@@ -34,4 +35,5 @@
         "link1": "https://github.com/nguyenjh/travel-serenity",
         "link2": "https://github.com/nguyenjh/travel-serenity"
     }
-]
+  ]
+}
